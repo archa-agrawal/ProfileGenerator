@@ -1,0 +1,15 @@
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/bin/Debug/net7.0/ProfileGenerator
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/bin/Debug/net7.0/ProfileGenerator.deps.json
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/bin/Debug/net7.0/ProfileGenerator.runtimeconfig.json
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/bin/Debug/net7.0/ProfileGenerator.dll
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/bin/Debug/net7.0/ProfileGenerator.pdb
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/obj/Debug/net7.0/ProfileGenerator.csproj.AssemblyReference.cache
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/obj/Debug/net7.0/ProfileGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/obj/Debug/net7.0/ProfileGenerator.AssemblyInfoInputs.cache
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/obj/Debug/net7.0/ProfileGenerator.AssemblyInfo.cs
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/obj/Debug/net7.0/ProfileGenerator.csproj.CoreCompileInputs.cache
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/obj/Debug/net7.0/ProfileGenerator.dll
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/obj/Debug/net7.0/refint/ProfileGenerator.dll
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/obj/Debug/net7.0/ProfileGenerator.pdb
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/obj/Debug/net7.0/ProfileGenerator.genruntimeconfig.cache
+/Users/archana/projects/ProfileGenerator/ProfileGenerator/obj/Debug/net7.0/ref/ProfileGenerator.dll

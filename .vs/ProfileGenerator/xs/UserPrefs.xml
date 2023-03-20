@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{86056FB5-A276-47A5-8F6F-F7E5962DCB5D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProfileGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProfileGenerator/Profile.cs">
+    <Files>
+      <File FileName="ProfileGenerator/.cshtml" Line="1" Column="1" IsPinned="True" />
+      <File FileName="ProfileGenerator/Program.cs" Line="4" Column="27" />
+      <File FileName="ProfileGenerator/Profile.cs" Line="7" Column="29" />
+      <File FileName="../cs_projects/cs_projects/ProfileGenerator.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProfileGenerator" expanded="True">
+            <Node name="ProfileGenerator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
